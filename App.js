@@ -282,4 +282,3 @@ function openContent(evt, contentName) {
   document.getElementById(contentName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-
